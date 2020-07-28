@@ -3,6 +3,7 @@ console.log("Service worker loaded!");
 const FILES_TO_CACHE = [
     '/',
     '/index.html',
+    'db.js',
     '/favicon.ico',
     'index.js',
     '/manifest.webmanifest',
